@@ -33,11 +33,11 @@ To run this tool on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/encryption-tool.git
+    git clone https://github.com/yourusername/FileEncryptionDecryptionSoftware.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd encryption-tool
+    cd FileEncryptionDecryptionSoftware
     ```
 3. Install the required dependencies:
     ```bash
